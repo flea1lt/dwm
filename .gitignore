@@ -5,3 +5,4 @@ dwm
 *.orig
 *.rej
 patch/*
+config.h
