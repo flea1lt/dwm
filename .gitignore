@@ -4,5 +4,4 @@ util.o
 dwm
 *.orig
 *.rej
-patch/*
 config.h
