@@ -3,6 +3,9 @@
 ## Installation
 
 ```bash
+# For archlinux
+sudo pacman -S xorg xorg-server
+
 git clone https://github.com/fleashiro/dwm.git
 cd dwm
 sudo make clean install
